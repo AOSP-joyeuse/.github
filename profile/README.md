@@ -15,5 +15,7 @@ To-do list:
  - Make it unified under the same image
  - Optimise it furthermore
 
-# **Inpired from @AOSP-bouquet**
-  **Thanks to @Reinazhard**
+# Credits
+Inpired from [AOSP-bouquet](https://github.com/AOSP-bouquet)
+
+Thanks to [Reinazhard](https://github.com/Reinazhard)
