@@ -1,19 +1,16 @@
 # **joyeuse**.
-  **joyeuse** is device codename for Redmi Note 9 Pro Global/Indonesia version
+  **joyeuse** is device codename for Redmi Note 9 Pro Global/Indonesia version.
 
-## What is this?
-Building AOSP and ***make it works with minimum changes as possible.***
+## What the purpose of this organization?
+Focused to build hentaiOS and ***make it works with minimum changes as possible.***
 
-This organization contains changes on **joyeuse** device that needed for building AOSP. ~~(WARNING: SOME CHANGES/REPOS MAYBE MISSING)~~
+This organization contains changes on **joyeuse** device that needed for building hentaiOS.
 
-Some project that currently maintained:
+The project that currently working:
  - hentaiOS
- - ProtonAOSP
- - AOSP Master (WIP)
+ - AOSP Master 
 
-To-do list:
- - Make it unified under the same image
- - Optimise it furthermore
+Additionally, I also build clang named [🧪Alchemist clang](https://gitlab.com/nekoshirro/Alchemist-LLVM) you can build your own kernel with my clang based on LLVM 16.
 
 # Credits
 Inpired from [AOSP-bouquet](https://github.com/AOSP-bouquet)
